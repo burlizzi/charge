@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@puppeteer/browsers": "^2.4.1",
+    "commonjs": "^0.0.1",
+    "puppeteer": "^23.7.1",
+    "puppeteer-core": "^23.8.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "puppeteer": "^23.7.1",
+    "tsx": "^4.19.2"
+  }
+}
